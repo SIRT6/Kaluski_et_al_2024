@@ -1,0 +1,117 @@
+"","Fold Change","log2(FC)"
+"xanthosine-5-phosphate",0.061827,-4.0156
+"SBP",0.094761,-3.3996
+"GMP",0.13795,-2.8578
+"NADH",0.17803,-2.4898
+"IMP",0.18521,-2.4327
+"acetylphosphate",0.1872,-2.4173
+"AMP",0.19196,-2.3811
+"fructose-1,6-bisphosphate",0.19451,-2.3621
+"GTP-nega",4.9345,2.3029
+"Ascorbic acid",4.7896,2.2599
+"glutathione",0.22008,-2.1839
+"CMP",0.22533,-2.1499
+"D-glyceraldehdye-3-phosphate",0.23732,-2.0751
+"dihydroxy-acetone-phosphate",0.24299,-2.041
+"glutathione-nega",0.25103,-1.9941
+"tryptophan",3.7012,1.888
+"inosine",0.2981,-1.7461
+"Geranyl-PP",0.2985,-1.7442
+"indole",3.2217,1.6878
+"Hydroxyisocaproic acid",3.1312,1.6467
+"FAD",0.32271,-1.6317
+"trans, trans-farnesyl diphosphate",3.0097,1.5896
+"Kynurenic acid",2.909,1.5405
+"dAMP",0.34942,-1.517
+"S-adenosyl-L-homoCysteine-posi",0.35313,-1.5017
+"Atrolactic acid",2.8175,1.4944
+"dCMP",0.35569,-1.4913
+"cytidine",0.35992,-1.4743
+"Phenyllactic acid",2.761,1.4652
+"purine",2.7316,1.4497
+"2-oxo-4-methylthiobutanoate",2.6564,1.4095
+"uracil",2.6154,1.3871
+"NADP+_posi",0.3913,-1.3537
+"GDP-nega",0.39532,-1.3389
+"NADH-nega",0.39533,-1.3389
+"L-arginino-succinate",0.39561,-1.3378
+"fumarate",0.40142,-1.3168
+"Maleic acid",0.40923,-1.289
+"2-keto-isovalerate",0.41495,-1.269
+"allantoin",2.3915,1.2579
+"NAD+_posi",0.43164,-1.2121
+"Glycerophosphocholine",0.43393,-1.2045
+"Taurodeoxycholic acid",2.2971,1.1998
+"dCDP-nega",0.43843,-1.1896
+"UMP",0.45204,-1.1455
+"Xanthurenic acid",2.2117,1.1452
+"2-Isopropylmalic acid",0.46473,-1.1055
+"Cellobiose",2.1396,1.0973
+"NADP+_nega",0.4763,-1.07
+"CDP-choline",0.48185,-1.0533
+"lysine",2.0293,1.021
+"thiamine-phosphate",0.49743,-1.0074
+"IDP-nega",0.50153,-0.99559
+"NAD+_nega",0.5075,-0.97851
+"glycerate",0.51114,-0.96821
+"malate",0.51429,-0.95936
+"Creatinine",0.51649,-0.95318
+"biotin",0.53367,-0.90599
+"ornithine",1.8667,0.9005
+"2-deoxyglucose-6-phosphate",1.8648,0.89901
+"phosphoenolpyruvate",1.8534,0.8902
+"ribose-phosphate",0.53956,-0.89013
+"myo-inositol",1.8318,0.87326
+"citrulline",1.8234,0.86663
+"phenylalanine",1.8214,0.86503
+"adenosine",0.55133,-0.85901
+"NADPH",1.809,0.85518
+"dTDP-nega",0.55355,-0.85321
+"glyoxylate",1.8057,0.85256
+"adenosine 5-phosphosulfate",0.55714,-0.8439
+"arginine",1.7944,0.84351
+"N-carbamoyl-L-aspartate-nega",0.55813,-0.84132
+"2-oxobutanoate",0.56128,-0.83321
+"xanthine",1.7796,0.83158
+"UDP-nega",0.56625,-0.82048
+"Aminoadipic acid",1.7623,0.81746
+"dGDP-nega",0.56758,-0.81711
+"hydroxyphenylpyruvate",1.7546,0.81115
+"hexose-phosphate",0.57455,-0.79951
+"O8P-O1P",0.57602,-0.79582
+"ADP-nega",0.58075,-0.784
+"CDP-nega",0.58436,-0.77508
+"allantoate",0.58538,-0.77256
+"4-Pyridoxic acid",1.6945,0.76087
+"nicotinamide",1.6731,0.74252
+"N-Acetyl-L-alanine",0.59941,-0.73838
+"cytosine",1.6629,0.73368
+"a-ketoglutarate",0.60165,-0.73299
+"thymine",0.60184,-0.73254
+"S-ribosyl-L-homocysteine-posi",1.6586,0.72999
+"N-acetyl-L-ornithine",1.6516,0.72387
+"5-methyl-THF",0.60967,-0.71391
+"sarcosine",0.6108,-0.71123
+"shikimate",1.6323,0.70687
+"quinolinate",1.6314,0.70612
+"pyridoxine",1.6204,0.69637
+"uridine",1.6157,0.69215
+"2-dehydro-D-gluconate",1.615,0.69154
+"guanine",1.6147,0.69129
+"spermidine",0.62514,-0.67776
+"Ng,NG-dimethyl-L-arginine",1.596,0.67446
+"3-phosphoglycerate",1.5934,0.67209
+"N-carbamoyl-L-aspartate",0.62832,-0.67044
+"dTMP-nega",0.63204,-0.6619
+"OBP",0.63634,-0.65212
+"S-adenosyl-L-homocysteine-nega",1.5504,0.63263
+"D-glucosamine-6-phosphate",0.65079,-0.61973
+"fructose-6-phosphate",0.65094,-0.6194
+"UDP-D-glucose",0.65264,-0.61563
+"acetyl-CoA-posi",0.65433,-0.6119
+"glycolate",1.5222,0.60619
+"glucose-6-phosphate",0.65917,-0.60127
+"Urea",1.5139,0.59826
+"alanine",0.66057,-0.59821
+"Thiamine pyrophosphate",0.66186,-0.5954
+"D-gluconate",1.505,0.58977
