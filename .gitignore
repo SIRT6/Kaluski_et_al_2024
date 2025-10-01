@@ -49,4 +49,4 @@ po/*~
 rsconnect/
 
 # Jupyter Notebook
-.ipynb_checkpoints
+Scripts/.ipynb_checkpoints
