@@ -5,6 +5,12 @@ This repository contains the source data, scripts, and analysis code supporting 
 ### Prerequisites
 - R (>= 4.4.1)
 - jupyterlab or jupyter notebook
+- R kernel for jupyter notebook
+```R
+install.packages("devtools")
+devtools::install_github("IRkernel/IRkernel")
+IRkernel::installspec()
+```
 
 ### Installation
 Clone this repository:
