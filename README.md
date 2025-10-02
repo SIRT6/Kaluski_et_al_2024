@@ -1,6 +1,8 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17250775.svg)](https://doi.org/10.5281/zenodo.17250775)
+
 # Kaluski et al. (2025) — Source Code & Data
 
-This repository contains the source data, scripts, and analysis code supporting the manuscript by **Kaluski et al. (2025)**. 
+This repository contains the source data, scripts, and analysis code supporting t[he manuscript by **Kaluski et al. (2025)**. 
 
 ### Prerequisites
 - R (>= 4.4.1)
