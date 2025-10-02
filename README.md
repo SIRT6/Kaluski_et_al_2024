@@ -19,5 +19,17 @@ Clone this repository:
    cd Kaluski_et_al_2024
 ```
 
+All R notebooks and scripts in this repository depend on a set of R packages.  
+To simplify installation, we provide a `requirements.R` script.
+
+#### Quick setup
+
+1. Open R (or RStudio).
+2. Run the following command:
+
+```r
+source("requirements.R")
+```
+
 ### Citation
 Kaluski et al. (2025). "Histone deacetylase SIRT6 regulates tryptophan catabolism and prevents metabolite imbalance associated with neurodegeneration". Nature Communications
